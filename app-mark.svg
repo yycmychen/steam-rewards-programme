@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">STEAM Achievement and Rewards</title>
+  <desc id="desc">A green achievement star connected by blue technology circuits.</desc>
+  <defs>
+    <linearGradient id="bg" x1="70" y1="50" x2="450" y2="470" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1b5874"/><stop offset="1" stop-color="#0c2f43"/>
+    </linearGradient>
+    <linearGradient id="star" x1="180" y1="145" x2="340" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#35b98d"/><stop offset="1" stop-color="#12815f"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="116" fill="url(#bg)"/>
+  <g fill="none" stroke="#74cdb3" stroke-width="14" stroke-linecap="round" opacity=".65">
+    <path d="M77 158h82l32 32"/><path d="M435 158h-82l-32 32"/><path d="M77 354h92l31-31"/><path d="M435 354h-92l-31-31"/>
+  </g>
+  <g fill="#efb44c"><circle cx="77" cy="158" r="18"/><circle cx="435" cy="158" r="18"/><circle cx="77" cy="354" r="18"/><circle cx="435" cy="354" r="18"/></g>
+  <circle cx="256" cy="256" r="144" fill="#f8fbfa"/>
+  <path d="m256 137 35 72 79 11-57 56 13 79-70-37-70 37 13-79-57-56 79-11z" fill="url(#star)"/>
+  <circle cx="256" cy="256" r="34" fill="#fff" opacity=".9"/>
+  <path d="m240 256 12 12 23-26" fill="none" stroke="#123e57" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
