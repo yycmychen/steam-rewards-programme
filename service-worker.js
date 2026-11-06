@@ -1,9 +1,8 @@
-const CACHE_NAME = "steam-rewards-shell-v2";
+const CACHE_NAME = "steam-rewards-shell-v3";
 const SHELL = [
   "./",
   "./index.html",
   "./manifest.webmanifest",
-  "./app-mark.svg",
   "./icon-192.png",
   "./icon-512.png",
   "./icon-512-maskable.png",
