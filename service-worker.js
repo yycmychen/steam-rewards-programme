@@ -1,4 +1,4 @@
-const CACHE_NAME = "steam-rewards-shell-v3";
+const CACHE_NAME = "master-steam-shell-v4";
 const SHELL = [
   "./",
   "./index.html",
